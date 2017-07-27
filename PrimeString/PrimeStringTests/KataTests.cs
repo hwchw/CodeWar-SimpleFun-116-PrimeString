@@ -18,13 +18,13 @@
 
 			Assert.AreEqual(true, kata.PrimeString("x"));
 
-			//Assert.AreEqual(true, kata.PrimeString("abc"));
+			Assert.AreEqual(true, kata.PrimeString("abc"));
 
-			//Assert.AreEqual(false, kata.PrimeString("fdsyffdsyffdsyffdsyffdsyf"));
+			Assert.AreEqual(false, kata.PrimeString("fdsyffdsyffdsyffdsyffdsyf"));
 
-			//Assert.AreEqual(true, kata.PrimeString("utdutdtdutd"));
+			Assert.AreEqual(true, kata.PrimeString("utdutdtdutd"));
 
-			//Assert.AreEqual(true, kata.PrimeString("abba"));
+			Assert.AreEqual(true, kata.PrimeString("abba"));
 		}
 	}
 }
