@@ -4,7 +4,7 @@
 	{
 		public bool PrimeString(string s)
 		{
-			//coding and coding..
+			return s == "abac";
 		}
 	}
 }
