@@ -16,7 +16,7 @@
 
 			Assert.AreEqual(false, kata.PrimeString("aaaa"));
 
-			//Assert.AreEqual(true, kata.PrimeString("x"));
+			Assert.AreEqual(true, kata.PrimeString("x"));
 
 			//Assert.AreEqual(true, kata.PrimeString("abc"));
 
