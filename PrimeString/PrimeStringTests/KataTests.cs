@@ -12,9 +12,9 @@
 
 			Assert.AreEqual(true, kata.PrimeString("abac"));
 
-			//Assert.AreEqual(false, kata.PrimeString("abab"));
+			Assert.AreEqual(false, kata.PrimeString("abab"));
 
-			//Assert.AreEqual(false, kata.PrimeString("aaaa"));
+			Assert.AreEqual(false, kata.PrimeString("aaaa"));
 
 			//Assert.AreEqual(true, kata.PrimeString("x"));
 
